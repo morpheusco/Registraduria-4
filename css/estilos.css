@@ -1,3 +1,14 @@
 .jumbo {
     padding:50px 20px;
 }
+.galeria-tope {
+    margin-top:60px;
+}
+
+.caja-galeria {
+    width: 50vw;
+}
+.texto-galeria {
+    top:100px;
+    left:100px;
+}
